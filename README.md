@@ -1,2 +1,2 @@
 # WTAS
- Warframe Trade Analityc System
+*Warframe Trade Analytics System*
